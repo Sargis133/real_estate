@@ -1,0 +1,114 @@
+.header {
+    background-color: #06112a;
+    position: relative;
+}
+
+.header__info-cols {
+    display: flex;
+    justify-content: space-between;
+    padding: 24px 0;
+}
+.header__info-col {
+    display: flex;
+    grid-column-gap: 20px;
+    flex: 1 0 0;
+}
+.header__info-col__icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.header__info-col__text {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    :first-child {
+        font-weight: 600;
+        font-size: 13px;
+        color: #fff;
+    }
+    :last-child {
+        font-size: 12px;
+        font-weight: 500;
+    }
+    .green-text {
+        color: #5ea51d;
+    }
+    .header__info-col__links {
+        display: flex;
+        grid-column-gap: 5px;
+        a {
+            color: inherit;
+            transition: all 200ms;
+            font-size: 10px;
+
+            &:hover {
+                opacity: 0.6;
+            }
+        }
+    }
+}
+
+
+.header__navbar {
+    background-color: rgba(0, 0, 0, 0.1);
+    position: absolute;
+    top: 93px;
+    left: 0;
+    right: 0;
+    z-index: 100;
+}
+.header__navbar-items {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.7rem 0;
+}
+.navbar__brand-link {
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    line-height: 1.1;
+    transition: all 200ms;
+
+    &:hover {
+        opacity: 0.7;
+    }
+
+    :first-child {
+        font-size: 28px;
+        font-weight: 900;
+    }
+    :last-child {
+        font-weight: 700;
+        font-size: 11px;
+        text-transform: uppercase;
+    }
+}
+
+.navbar__list-items {
+    display: flex;
+}
+.navbar__list-item {
+    a {
+        padding: 1.2rem 25px;
+        font-size: 13px;
+        color: rgba(255, 255, 255, 0.7);
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        transition: all 200ms;
+
+        &:hover {
+            opacity: 0.7;
+        }
+    }
+}
+.navbar__submit-btn {
+    text-transform: uppercase;
+}

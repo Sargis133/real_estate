@@ -1,0 +1,44 @@
+.find-place {
+    background: url("../../assets/images/img/find-place-bg.webp") no-repeat center;
+    background-size: cover;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.find-place:after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background-color: rgba(94, 165, 29, 0.9);
+}
+.find-place__content {
+    display: flex;
+    align-items: center;
+    padding: 50px;
+    position: relative;
+    z-index: 2;
+    grid-column-gap: 65px;
+}
+.find-place__text-content {
+}
+.find-place__title {
+    color: #fff;
+    font-weight: 600;
+    font-size: 40px;
+}
+.find-place__subtitle {
+    color: #fff;
+}
+.find-place__btn {
+    position: relative;
+    z-index: 2;
+    background-color: #000000;
+    color: #fff;
+    box-shadow: 0 24px 36px -11px rgba(0, 0, 0, 0.09);
+    padding: 20px 30px;
+    text-transform: uppercase;
+    width: max-content;
+    height: max-content;
+}

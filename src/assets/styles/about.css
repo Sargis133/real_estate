@@ -1,0 +1,7 @@
+.about-page {
+    overflow: hidden;
+}
+.about-page__clients-block {
+    text-align: center;
+    padding: 80px 0;
+}

@@ -1,0 +1,13 @@
+.featured-properties {
+    padding-top: 70px;
+    padding-bottom: 140px;
+    display: grid;
+    grid-template-columns: repeat(4, minmax(250px, 1fr));
+    grid-column-gap: 20px;
+}
+.featured-properties__card {
+    display: flex;
+}
+.featured-properties__empty-card {
+    display: flex;
+}

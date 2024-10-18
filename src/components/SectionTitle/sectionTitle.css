@@ -1,0 +1,17 @@
+.section-title {
+    display: flex;
+    flex-direction: column;
+    grid-row-gap: 5px;
+}
+.section-title__subtitle {
+    font-size: 13px;
+    color: #5ea51d;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.section-title__title {
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 1.4;
+    color: rgba(0, 0, 0, 0.8);
+}
