@@ -1,0 +1,208 @@
+{
+  "blogs": [
+    {
+      "id": 0,
+      "cardImage": "blog-1.webp",
+      "creator": {
+        "name": "Sam Marquez",
+        "image": "agent_4.webp",
+        "quote": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus itaque, autem necessitatibus voluptate quod mollitia delectus aut, sunt placeat nam vero culpa sapiente consectetur similique, inventore eos fugit cupiditate numquam!"
+      },
+      "cardTitle": "New Home Sales Picked Up in December",
+      "cardText": "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+      "date": "DEC. 01, 2024",
+      "blogContent": [
+        {
+          "type": "title",
+          "value": "New Home Sales Picked Up in December"
+        },
+        {
+          "type": "text",
+          "value": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis, eius mollitia suscipit, quisquam doloremque distinctio perferendis et doloribus unde architecto optio laboriosam porro adipisci sapiente officiis nemo accusamus ad praesentium? Esse minima nisi et. Dolore perferendis, enim praesentium omnis, iste doloremque quia officia optio deserunt molestiae voluptates soluta architecto tempora."
+        },
+        {
+          "type": "image",
+          "value": "blog-1.webp"
+        },
+        {
+          "type": "text",
+          "value": "Molestiae cupiditate inventore animi, maxime sapiente optio, illo est nemo veritatis repellat sunt doloribus nesciunt! Minima laborum magni reiciendis qui voluptate quisquam voluptatem soluta illo eum ullam incidunt rem assumenda eveniet eaque sequi deleniti tenetur dolore amet fugit perspiciatis ipsa, odit. Nesciunt dolor minima esse vero ut ea, repudiandae suscipit!"
+        }
+      ],
+      "tags": ["house", "real estate", "estate", "commercial"],
+      "comments": [
+        {
+          "id": 0,
+          "user": "John Doe",
+          "userImage": "agent_2.webp",
+          "date": "December 02, 2024 at 3:33pm",
+          "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?"
+        },
+        {
+          "id": 1,
+          "user": "William Ego",
+          "userImage": "agent_3.webp",
+          "date": "December 03, 2024 at 4:44pm",
+          "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?"
+        },
+        {
+          "id": 2,
+          "user": "John Doe",
+          "userImage": "agent_4.webp",
+          "date": "December 04, 2024 at 4:44pm",
+          "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "cardImage": "blog-2.webp",
+      "creator": {
+        "name": "Sam Marquez",
+        "image": "agent_3.webp",
+        "quote": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus itaque, autem necessitatibus voluptate quod mollitia delectus aut, sunt placeat nam vero culpa sapiente consectetur similique, inventore eos fugit cupiditate numquam!"
+      },
+      "cardTitle": "New Home Sales Picked Up in December",
+      "cardText": "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+      "date": "DEC. 03, 2024",
+      "blogContent": [
+        {
+          "type": "title",
+          "value": "New Home Sales Picked Up in December"
+        },
+        {
+          "type": "image",
+          "value": "blog-2.webp"
+        },
+        {
+          "type": "text",
+          "value": "Molestiae cupiditate inventore animi, maxime sapiente optio, illo est nemo veritatis repellat sunt doloribus nesciunt! Minima laborum magni reiciendis qui voluptate quisquam voluptatem soluta illo eum ullam incidunt rem assumenda eveniet eaque sequi deleniti tenetur dolore amet fugit perspiciatis ipsa, odit. Nesciunt dolor minima esse vero ut ea, repudiandae suscipit!"
+        }
+      ],
+      "tags": ["house", "real estate", "estate", "commercial"],
+      "comments": [
+        {
+          "id": 0,
+          "user": "John Doe",
+          "userImage": "agent_4.webp",
+          "date": "December 02, 2024 at 3:33pm",
+          "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?"
+        },
+        {
+          "id": 1,
+          "user": "William Ego",
+          "userImage": "agent_5.webp",
+          "date": "December 03, 2024 at 4:44pm",
+          "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?"
+        },
+        {
+          "id": 2,
+          "user": "John Doe",
+          "userImage": "agent_6.webp",
+          "date": "December 04, 2024 at 4:44pm",
+          "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "cardImage": "blog-3.webp",
+      "creator": {
+        "name": "Sam Marquez",
+        "image": "agent_2.webp",
+        "quote": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus itaque, autem necessitatibus voluptate quod mollitia delectus aut, sunt placeat nam vero culpa sapiente consectetur similique, inventore eos fugit cupiditate numquam!"
+      },
+      "cardTitle": "New Home Sales Picked Up in December",
+      "cardText": "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+      "date": "DEC. 03, 2024",
+      "blogContent": [
+        {
+          "type": "title",
+          "value": "New Home Sales Picked Up in December"
+        },
+        {
+          "type": "image",
+          "value": "blog-3.webp"
+        },
+        {
+          "type": "text",
+          "value": "Molestiae cupiditate inventore animi, maxime sapiente optio, illo est nemo veritatis repellat sunt doloribus nesciunt! Minima laborum magni reiciendis qui voluptate quisquam voluptatem soluta illo eum ullam incidunt rem assumenda eveniet eaque sequi deleniti tenetur dolore amet fugit perspiciatis ipsa, odit. Nesciunt dolor minima esse vero ut ea, repudiandae suscipit!"
+        }
+      ],
+      "tags": ["house", "real estate", "estate", "commercial"],
+      "comments": [
+        {
+          "id": 0,
+          "user": "John Doe",
+          "userImage": "agent_5.webp",
+          "date": "December 02, 2024 at 3:33pm",
+          "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?"
+        },
+        {
+          "id": 1,
+          "user": "William Ego",
+          "userImage": "agent_2.webp",
+          "date": "December 03, 2024 at 4:44pm",
+          "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?"
+        },
+        {
+          "id": 2,
+          "user": "John Doe",
+          "userImage": "agent_3.webp",
+          "date": "December 04, 2024 at 4:44pm",
+          "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "cardImage": "blog-4.webp",
+      "creator": {
+        "name": "Sam Marquez",
+        "image": "agent-1.png",
+        "quote": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus itaque, autem necessitatibus voluptate quod mollitia delectus aut, sunt placeat nam vero culpa sapiente consectetur similique, inventore eos fugit cupiditate numquam!"
+      },
+      "cardTitle": "New Home Sales Picked Up in December",
+      "cardText": "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+      "date": "DEC. 05, 2024",
+      "blogContent": [
+        {
+          "type": "title",
+          "value": "New Home Sales Picked Up in December"
+        },
+        {
+          "type": "image",
+          "value": "blog-4.webp"
+        },
+        {
+          "type": "text",
+          "value": "Molestiae cupiditate inventore animi, maxime sapiente optio, illo est nemo veritatis repellat sunt doloribus nesciunt! Minima laborum magni reiciendis qui voluptate quisquam voluptatem soluta illo eum ullam incidunt rem assumenda eveniet eaque sequi deleniti tenetur dolore amet fugit perspiciatis ipsa, odit. Nesciunt dolor minima esse vero ut ea, repudiandae suscipit!"
+        }
+      ],
+      "tags": ["house", "real estate", "estate", "commercial"],
+      "comments": [
+        {
+          "id": 0,
+          "user": "John Doe",
+          "userImage": "agent_5.webp",
+          "date": "December 02, 2024 at 3:33pm",
+          "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?"
+        },
+        {
+          "id": 1,
+          "user": "William Ego",
+          "userImage": "agent_6.webp",
+          "date": "December 03, 2024 at 4:44pm",
+          "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?"
+        },
+        {
+          "id": 2,
+          "user": "John Doe",
+          "userImage": "agent_5.webp",
+          "date": "December 04, 2024 at 4:44pm",
+          "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?"
+        }
+      ]
+    }
+  ]
+}

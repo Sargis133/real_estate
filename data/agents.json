@@ -1,0 +1,58 @@
+{
+  "agents": [
+    {
+      "id": 0,
+      "name": "Leanne Graham",
+      "image": "agent-1.png",
+      "listings": 10
+    },
+    {
+      "id": 1,
+      "name": "Ervin Howell",
+      "image": "agent_2.webp",
+      "listings": 8
+    },
+    {
+      "id": 2,
+      "name": "Clementine Bauch",
+      "image": "agent_3.webp",
+      "listings": 11
+    },
+    {
+      "id": 3,
+      "name": "Mike Bochs",
+      "image": "agent_4.webp",
+      "listings": 19
+    },
+    {
+      "id": 4,
+      "name": "Sarah Geronimo",
+      "image": "agent_5.webp",
+      "listings": 7
+    },
+    {
+      "id": 5,
+      "name": "Jessica Moore",
+      "image": "agent_6.webp",
+      "listings": 15
+    },
+    {
+      "id": 6,
+      "name": "Karl Jonson",
+      "image": "agent_7.webp",
+      "listings": 8
+    },
+    {
+      "id": 7,
+      "name": "Mike Miller",
+      "image": "agent_8.webp",
+      "listings": 12
+    },
+    {
+      "id": 8,
+      "name": "Jessica Moore",
+      "image": "agent_9.webp",
+      "listings": 14
+    }
+  ]
+}
